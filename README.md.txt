@@ -1,1 +1,0 @@
-this is a shop webapp for vue
